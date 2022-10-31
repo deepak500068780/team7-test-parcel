@@ -1,0 +1,30 @@
+{
+  "name": "team_7",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://appliedis.visualstudio.com/DefaultCollection/IDC%20Hackathon%202022/_git/Team_7"
+  },
+  "author": "Raman Kumar",
+  "license": "ISC",
+  "browserslist": [
+    "last 1 Edge version",
+    "last 1 Chrome version",
+    "last 1 Firefox version",
+    "last 1 safari version",
+    "last 1 webkit version"
+  ],
+  "dependencies": {
+    "@azure/storage-blob": "^12.12.0",
+    "parcel": "^2.7.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3"
+  }
+}
